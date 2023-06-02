@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <food>
+    <item name="lunch" type="main">Chicken Biryani</item>
+    <price currency="USD">$12.99</price>
+    <description>
+      Aromatic basmati rice cooked with tender chicken pieces, spices, and herbs.
+    </description>
+    <calories>780</calories>
+    <ingredients>
+      <ingredient>Basmati rice</ingredient>
+      <ingredient>Chicken</ingredient>
+      <ingredient>Spices</ingredient>
+      <ingredient>Herbs</ingredient>
+    </ingredients>
+  </food>
+    <food>
+    <item name="dessert" type="sweet">Chocolate Cake</item>
+    <price currency="USD">$6.99</price>
+    <description>
+      Rich and moist chocolate cake topped with creamy chocolate frosting.
+    </description>
+    <calories>450</calories>
+    <ingredients>
+      <ingredient>Flour</ingredient>
+      <ingredient>Sugar</ingredient>
+      <ingredient>Cocoa Powder</ingredient>
+      <ingredient>Eggs</ingredient>
+      <ingredient>Milk</ingredient>
+      <ingredient>Butter</ingredient>
+    </ingredients>
+  </food>
+    <food>
+    <item name="snack">Nachos</item>
+    <price currency="USD">$3.99</price>
+    <description>
+      Crunchy tortilla chips topped with melted cheese and served with salsa dip.
+    </description>
+    <calories>320</calories>
+    <ingredients>
+      <ingredient>Tortilla chips</ingredient>
+      <ingredient>Cheese</ingredient>
+      <ingredient>Salsa dip</ingredient>
+    </ingredients>
+  </food>
+</metadata>
